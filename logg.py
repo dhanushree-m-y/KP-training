@@ -3,10 +3,10 @@ import logging
 import logging
 
 logging.basicConfig(level=logging.DEBUG,)
-# logging.debug("debug message")
-# logging.info("info message")
-# logging.warning("warning message")
-# logging.error("error message")
+logging.debug("debug message")
+logging.info("info message")
+logging.warning("warning message")
+logging.error("error message")
 
 
 password="abc123"
