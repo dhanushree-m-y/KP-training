@@ -1,0 +1,12 @@
+[1mdiff --git a/logg.py b/logg.py[m
+[1mindex 1d15fb8..18b7931 100644[m
+[1m--- a/logg.py[m
+[1m+++ b/logg.py[m
+[36m@@ -7,6 +7,7 @@[m [mlogging.debug("debug message")[m
+ logging.info("info message")[m
+ logging.warning("warning message")[m
+ logging.error("error message")[m
+[32m+[m[32mlogging.critical("critical message")[m
+ [m
+ [m
+ password="abc123"[m
